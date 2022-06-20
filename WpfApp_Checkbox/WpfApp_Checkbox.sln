@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Checkbox", "WpfApp_Checkbox\WpfApp_Checkbox.csproj", "{FF3D7A2E-32B8-4EF9-B1B9-A4E1AF2D9928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF3D7A2E-32B8-4EF9-B1B9-A4E1AF2D9928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3D7A2E-32B8-4EF9-B1B9-A4E1AF2D9928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3D7A2E-32B8-4EF9-B1B9-A4E1AF2D9928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3D7A2E-32B8-4EF9-B1B9-A4E1AF2D9928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
