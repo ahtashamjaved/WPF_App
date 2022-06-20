@@ -26,3 +26,5 @@ C:\Users\Ahtasham\Documents\Visual Studio 2017\Projects\WpfApp1\WPF_App\WpfApp1\
 C:\Users\Ahtasham\Documents\Visual Studio 2017\Projects\WpfApp1\WPF_App\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
 C:\Users\Ahtasham\Documents\Visual Studio 2017\Projects\WpfApp1\WPF_App\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\Ahtasham\Documents\Visual Studio 2017\Projects\WpfApp1\WPF_App\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Ahtasham\Documents\Visual Studio 2017\Projects\WpfApp1\WPF_App\WpfApp1\obj\Debug\DataBindings.g.cs
+C:\Users\Ahtasham\Documents\Visual Studio 2017\Projects\WpfApp1\WPF_App\WpfApp1\obj\Debug\DataBindings.baml
