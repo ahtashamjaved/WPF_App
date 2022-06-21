@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp_PasswordBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_PasswordBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Margin="10">
+        <Label>Usernmame:</Label>
+        <TextBox Name="tbUserName"></TextBox>
+        <Label>Password:</Label>
+        <PasswordBox Name="tbPassword" PasswordChar="&" MaxLength="10"></PasswordBox>
+        <Button Margin="0 5 0 0" Content="Login" Click="Button_Click"></Button>
+        <Label Name="lblMessage" Margin="10"></Label>
+
+    </StackPanel>
+</Window>
